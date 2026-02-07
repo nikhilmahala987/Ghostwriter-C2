@@ -1,6 +1,3 @@
-# Ghostwriter-C2
-A custom Command &amp; Control framework built from scratch in Python. Features include multi-threaded handling, custom communication protocols, and post-exploitation modules. Designed for Red Team operations.
-Markdown
 # 👻 Ghostwriter C2 Framework
 
 **Ghostwriter** is a lightweight, Python-based Command & Control (C2) framework designed for Red Team engagements and educational research into malware development.
@@ -20,5 +17,5 @@ Navigate to the folder:
 ```Bash
 cd Ghostwriter-C2
 ```
-⚠️ Legal Disclaimer
+## ⚠️ Legal Disclaimer
 This project is for Educational Purposes Only. It is designed to be used in a closed laboratory environment. The author is not responsible for any misuse of this code.
