@@ -17,7 +17,8 @@ Markdown
    git clone [https://github.com/YOUR_USERNAME/Ghostwriter-C2.git](https://github.com/YOUR_USERNAME/Ghostwriter-C2.git)
 Navigate to the folder:
 
-Bash
+```Bash
 cd Ghostwriter-C2
+```
 ⚠️ Legal Disclaimer
 This project is for Educational Purposes Only. It is designed to be used in a closed laboratory environment. The author is not responsible for any misuse of this code.
